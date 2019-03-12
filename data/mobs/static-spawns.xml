@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<spawns>
+    <spawn id="2">
+        <x>3201</x>
+        <y>3201</y>
+        <z>0</z>
+        <hp>10</hp>
+        <size>1</size>
+    </spawn>
+    <spawn id="1">
+        <x>3200</x>
+        <y>3201</y>
+        <z>0</z>
+        <hp>10</hp>
+        <size>1</size>
+    </spawn>
+</spawns>
